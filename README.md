@@ -1,4 +1,4 @@
-## Hi, I'm Ryan (Paing Htet Kyaw) 👋
+## Hi, I'm Ryan (Paing Htet Kyaw)
 
 Electronic engineer with a **First-Class BEng (Hons) in Electronic Engineering** from the University of Portsmouth (IET accredited). I work on digital hardware and embedded systems: RTL design and verification in SystemVerilog and VHDL, FreeRTOS firmware, and computer vision on the edge.
 
